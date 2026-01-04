@@ -26,5 +26,3 @@ This project simulates basic banking operations and is designed to strengthen co
 - Java (Core Java)
 - IntelliJ IDEA
 - Git & GitHub
-
-## 🔹 Project Structure
