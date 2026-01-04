@@ -1,6 +1,6 @@
 # Bank Management System (Core Java & OOPS)
 
-A **console based Bank Management System** developed using **Core Java**, focusing on **Object-Oriented Programming (OOPS)** principles.  
+A **console based Bank Management System** developed using **Core Java**, focusing on **Object Oriented Programming (OOPS)** principles.  
 This project simulates basic banking operations and is designed to strengthen core Java concepts for interviews and real world understanding.
 
 
